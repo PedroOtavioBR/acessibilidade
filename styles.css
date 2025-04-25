@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #13d6a5;
+    --laranja-claro: #e00000;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #13d6a5;
+    --alto-contraste-link: #e00000;
 }
 
 body {
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #13d6a5;
+    color: #e00000;
     font-weight: 600;
 }
 
@@ -128,11 +128,11 @@ h2 {
     /* Borda arredondada para o formulário */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     /* Sombra suave para destacar o formulário */
-    font-weight: bold;
+    font-weight: bold; 
 }
 
 .formulario button {
-    background-color: #13d6a5;
+    background-color: #e00000;
     border: none;
     font-weight: bold;
 }
